@@ -2,3 +2,5 @@ admin is responsible for giving access to users
 
 admin give access
 New user is added
+new user is added
+
