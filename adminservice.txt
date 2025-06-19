@@ -1,3 +1,4 @@
 admin is responsible for giving access to users
 
 admin give access
+new user is added
